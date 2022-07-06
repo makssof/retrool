@@ -1,6 +1,8 @@
 # Retrool
 
-Simple tool to repeat some actions after some time for GoLang
+Simple tool to repeat (or retry) some actions after some time for GoLang.
+
+The tool determines whether an action should be retried by the action's return value
 
 [![GoDoc](https://godoc.org/github.com/makssof/retrool?status.svg)](https://godoc.org/github.com/makssof/retrool)
 [![Release](https://img.shields.io/github/v/release/makssof/retrool.svg)](https://github.com/makssof/retrool/releases/)
